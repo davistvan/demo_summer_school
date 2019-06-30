@@ -1,5 +1,5 @@
 ---
-title: "HTML example"
+title: "HTML example2"
 output: html_document
 ---
 
@@ -39,3 +39,5 @@ Here is a big Giphy:
 ![Some useful legend](https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif) 
 
 and a smaller one... <img src='https://media.giphy.com/media/5nkIn9AEfUQ6JtXL43/giphy.gif' width='200' height='200' />
+
+#change test
