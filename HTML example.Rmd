@@ -1,5 +1,5 @@
 ---
-title: "HTML example3 Orlando est un Pokemon"
+title: "HTML example3 Orlando est un Pokemon. David est un Digimon"
 output: html_document
 ---
 
